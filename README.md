@@ -4,7 +4,7 @@ Simple PHP shell script, yet powerful enough.
 
 ![Screenshot](screenshot.jpg)
 
-Features:-
+## Features
 
 * Display OS type and PHP version
 * View phpinfo
@@ -17,7 +17,7 @@ Features:-
 * Execute MySQL query
 * Execute Shell Command
 
------
+## License
 
 ```
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
